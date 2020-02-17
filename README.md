@@ -1,2 +1,1 @@
-# BinarySearch
-Simple binary search sample
+Классический бинарный поиск.
